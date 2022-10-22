@@ -2,5 +2,7 @@
 GRAD 778 Module 8 Repo using CLI
 
 Favorite food: Chicago style hot-dog
+
 I prefer tea
+
 Favorite color: Olive Green
